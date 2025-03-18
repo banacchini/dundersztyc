@@ -1,0 +1,38 @@
+Plan strony "Dundersztyc Incorporated"
+1) Nagłówek (Header)
+- Logo firmy (tekstowe lub graficzne)
+- Slogan: „Najlepsza firma zła na świecie!”
+- Możliwe elementy nawigacji (np. „O nas”, „Inatory”, „Kontakt”)
+
+2) Sekcja główna (Hero Section)
+- Powitalny nagłówek: „Witaj w Dundersztyc Inc.”
+- Krótkie wprowadzenie: „Dom złowieszczych wynalazków i przełomowych inatorów!”
+- Przycisk akcji: „Zamów Inator™”
+- Tło stylizowane na tajne laboratorium lub złowrogą korporację
+
+3) Sekcja „Nasze Inatory”
+- Nagłówek: „Nasze Inatory”
+- Lista prezentowanych wynalazków (np. w formie kart):
+
+- Promieniator Kurczakowy (Zamienia ludzi w kurczaki!)
+- Inator do Zapominania (Usuwa wspomnienia o porażkach!)
+- Znikator Domów (Sprawia, że domy znikają – chyba…?)
+- Każdy wynalazek z obrazkiem, krótkim opisem i ewentualnym przyciskiem „Przetestuj!”
+
+4)  Sekcja „Kim Jest Heinz Dundersztyc?”
+- Krótka biografia Dundersztyca: jego historia, motywacje, nieudane plany
+- Możliwe cytaty np. „Przeklęty Fineaszu i Ferbie!”
+- Stylizowana jak „o autorze” na poważnych stronach firmowych (ale w żartobliwym tonie)
+
+5) Stopka (Footer)
+- Copyright: „© 2025 Dundersztyc Inc. Wszystkie prawa złowieszczo zastrzeżone.”
+- Linki do „kontaktów” (można dodać fałszywe adresy, np. dundersztyc@zlowieszczyplan.com)
+- Stylizacja w ciemnych kolorach z klimatem „tajnej organizacji”
+
+ Dodatki wizualne i efekty
+- Kolorystyka – fiolet, złoto i ciemne odcienie (złowieszczy styl!)
+- Animacje – efekt drżenia przycisku „Zamów Inator™”
+- Tła – np. rysunkowe schematy wynalazków w tle sekcji
+- Zabawne detale – tajne notatki Dundersztyca, fake recenzje użytkowników („Ten inator mnie zmienił... w kurczaka.”)
+
+Czy coś dodać lub zmienić?
